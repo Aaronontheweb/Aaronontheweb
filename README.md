@@ -11,6 +11,7 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [You Have to Have Skin in the Game](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;skin-in-the-game&#x2F;) - _Tue, 01 Sep 2020 14:14:00 +0000_
 #### [Introducing Sdkbin - The Marketplace for Software Developers](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;sdkbin-marketplace&#x2F;) - _Mon, 15 Jun 2020 19:14:00 +0000_
 #### [The New Rules for Playing in Microsoft&#39;s Open Source Sandbox](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;new-rules-dotnet-oss&#x2F;) - _Wed, 03 Jun 2020 13:14:00 +0000_
 #### [How to Build Sustainable Open Source Software Projects](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;sustainable-open-source-software&#x2F;) - _Thu, 30 Jan 2020 16:14:00 +0000_
@@ -20,5 +21,4 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 #### [It&#39;s Just Not a Big Deal](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;not-a-big-deal&#x2F;) - _Tue, 16 Oct 2018 18:29:44 +0000_
 #### [The High Price of Comfort](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;high-effort-living&#x2F;) - _Thu, 04 Oct 2018 18:29:44 +0000_
 #### [What We Leave Behind](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;what-we-leave-behind&#x2F;) - _Sat, 05 May 2018 18:29:44 +0000_
-#### [The Necessity of Systematic Thinking](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;systematic-thinking&#x2F;) - _Fri, 20 Oct 2017 00:09:44 +0000_
 <!--END_SECTION:feed-->
