@@ -11,6 +11,7 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [A Eulogy: the Tenacious Pursuit of Happiness](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;eulogy-pursuit-happiness&#x2F;) - _Mon, 18 Jan 2021 12:14:00 +0000_
 #### [How to Play Software as a Team Sport](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;software-team-sport&#x2F;) - _Tue, 29 Dec 2020 21:14:00 +0000_
 #### [You Have to Have Skin in the Game](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;skin-in-the-game&#x2F;) - _Tue, 01 Sep 2020 14:14:00 +0000_
 #### [Introducing Sdkbin - The Marketplace for Software Developers](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;sdkbin-marketplace&#x2F;) - _Mon, 15 Jun 2020 19:14:00 +0000_
@@ -20,5 +21,4 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 #### [The Next Decade of .NET Open Source](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;next-decade-dotnet&#x2F;) - _Thu, 23 Jan 2020 17:10:44 +0000_
 #### [Problems and Solutions with the .NET Foundation Maturity Ladder](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;dotnet-foundation-maturity-ladder&#x2F;) - _Sat, 28 Sep 2019 17:10:44 +0000_
 #### [It&#39;s Just Not a Big Deal](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;not-a-big-deal&#x2F;) - _Tue, 16 Oct 2018 18:29:44 +0000_
-#### [The High Price of Comfort](http:&#x2F;&#x2F;www.aaronstannard.com&#x2F;high-effort-living&#x2F;) - _Thu, 04 Oct 2018 18:29:44 +0000_
 <!--END_SECTION:feed-->
