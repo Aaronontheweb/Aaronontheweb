@@ -7,6 +7,7 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 
 * 🔭 [See My Talks and Podcast Appearances](https://aaronstannard.com/talks/)
 * :bird: [@Aaronontheweb on Twitter](https://twitter.com/Aaronontheweb)
+* :tv: [Stannardian on Twitch](https://www.twitch.tv/stannardian)
 * :bookmark_tabs:	[aaronstannard.com](https://aaronstannard.com/)
 
 ## Blog Posts
