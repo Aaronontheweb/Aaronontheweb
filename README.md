@@ -12,6 +12,7 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [Practical vs. Strict Semantic Versioning](https:&#x2F;&#x2F;aaronstannard.com&#x2F;oss-semver&#x2F;) - _Mon, 31 May 2021 12:31:21 +0000_
 #### [Professional Open Source: Maintaining API, Binary, and Wire Compatibility](https:&#x2F;&#x2F;aaronstannard.com&#x2F;oss-compatibility-standards&#x2F;) - _Tue, 04 May 2021 17:31:21 +0000_
 #### [Sdkbin February 2021 Update: Revenue, Results, and Roadmap](https:&#x2F;&#x2F;aaronstannard.com&#x2F;sdkbin-update-feb2021&#x2F;) - _Wed, 10 Feb 2021 16:14:00 +0000_
 #### [A Eulogy: the Tenacious Pursuit of Happiness](https:&#x2F;&#x2F;aaronstannard.com&#x2F;eulogy-pursuit-happiness&#x2F;) - _Mon, 18 Jan 2021 12:14:00 +0000_
@@ -21,5 +22,4 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 #### [The New Rules for Playing in Microsoft&#39;s Open Source Sandbox](https:&#x2F;&#x2F;aaronstannard.com&#x2F;new-rules-dotnet-oss&#x2F;) - _Wed, 03 Jun 2020 13:14:00 +0000_
 #### [How to Build Sustainable Open Source Software Projects](https:&#x2F;&#x2F;aaronstannard.com&#x2F;sustainable-open-source-software&#x2F;) - _Thu, 30 Jan 2020 16:14:00 +0000_
 #### [How to Configure Visual Studio to Use SourceLink to Step into NuGet Package Source](https:&#x2F;&#x2F;aaronstannard.com&#x2F;visual-studio-sourcelink-setup&#x2F;) - _Fri, 24 Jan 2020 22:22:30 +0000_
-#### [The Next Decade of .NET Open Source](https:&#x2F;&#x2F;aaronstannard.com&#x2F;next-decade-dotnet&#x2F;) - _Thu, 23 Jan 2020 17:10:44 +0000_
 <!--END_SECTION:feed-->
