@@ -12,6 +12,7 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [Professional Open Source: Extend-Only Design](https:&#x2F;&#x2F;aaronstannard.com&#x2F;extend-only-design&#x2F;) - _Mon, 27 Dec 2021 18:05:09 +0000_
 #### [An Overview of Distributed Tracing with OpenTelemetry in .NET 6](https:&#x2F;&#x2F;aaronstannard.com&#x2F;opentelemetry-dotnet6&#x2F;) - _Tue, 21 Dec 2021 12:31:21 +0000_
 #### [The Future of the .NET Foundation and .NET OSS](https:&#x2F;&#x2F;aaronstannard.com&#x2F;future-of-dotnet-foundation&#x2F;) - _Tue, 12 Oct 2021 12:31:21 +0000_
 #### [On Generational Thinking](https:&#x2F;&#x2F;aaronstannard.com&#x2F;intergenerational-thinking&#x2F;) - _Mon, 16 Aug 2021 18:31:21 +0000_
@@ -21,5 +22,4 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 #### [Sdkbin February 2021 Update: Revenue, Results, and Roadmap](https:&#x2F;&#x2F;aaronstannard.com&#x2F;sdkbin-update-feb2021&#x2F;) - _Wed, 10 Feb 2021 16:14:00 +0000_
 #### [A Eulogy: the Tenacious Pursuit of Happiness](https:&#x2F;&#x2F;aaronstannard.com&#x2F;eulogy-pursuit-happiness&#x2F;) - _Mon, 18 Jan 2021 12:14:00 +0000_
 #### [How to Play Software as a Team Sport](https:&#x2F;&#x2F;aaronstannard.com&#x2F;software-team-sport&#x2F;) - _Tue, 29 Dec 2020 21:14:00 +0000_
-#### [You Have to Have Skin in the Game](https:&#x2F;&#x2F;aaronstannard.com&#x2F;skin-in-the-game&#x2F;) - _Tue, 01 Sep 2020 14:14:00 +0000_
 <!--END_SECTION:feed-->
