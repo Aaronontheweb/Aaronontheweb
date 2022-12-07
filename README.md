@@ -12,6 +12,7 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [Beware the Long &#39;YAGNI&#39;](https:&#x2F;&#x2F;aaronstannard.com&#x2F;beware-long-yagni&#x2F;) - _Tue, 06 Dec 2022 02:22:44 +0000_
 #### [Reflections on a Decade of Self-Employment](https:&#x2F;&#x2F;aaronstannard.com&#x2F;decade-self-employment&#x2F;) - _Wed, 17 Aug 2022 12:11:21 +0000_
 #### [Professional Open Source: Extend-Only Design](https:&#x2F;&#x2F;aaronstannard.com&#x2F;extend-only-design&#x2F;) - _Mon, 27 Dec 2021 18:05:09 +0000_
 #### [An Overview of Distributed Tracing with OpenTelemetry in .NET 6](https:&#x2F;&#x2F;aaronstannard.com&#x2F;opentelemetry-dotnet6&#x2F;) - _Tue, 21 Dec 2021 12:31:21 +0000_
@@ -21,5 +22,4 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 #### [Practical vs. Strict Semantic Versioning](https:&#x2F;&#x2F;aaronstannard.com&#x2F;oss-semver&#x2F;) - _Mon, 31 May 2021 12:31:21 +0000_
 #### [Professional Open Source: Maintaining API, Binary, and Wire Compatibility](https:&#x2F;&#x2F;aaronstannard.com&#x2F;oss-compatibility-standards&#x2F;) - _Tue, 04 May 2021 17:31:21 +0000_
 #### [Sdkbin February 2021 Update: Revenue, Results, and Roadmap](https:&#x2F;&#x2F;aaronstannard.com&#x2F;sdkbin-update-feb2021&#x2F;) - _Wed, 10 Feb 2021 16:14:00 +0000_
-#### [A Eulogy: the Tenacious Pursuit of Happiness](https:&#x2F;&#x2F;aaronstannard.com&#x2F;eulogy-pursuit-happiness&#x2F;) - _Mon, 18 Jan 2021 12:14:00 +0000_
 <!--END_SECTION:feed-->
