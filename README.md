@@ -12,6 +12,7 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [We&#39;re Rewriting Sdkbin](https:&#x2F;&#x2F;aaronstannard.com&#x2F;sdkbin-rewrite&#x2F;) - _Thu, 10 Aug 2023 16:14:00 +0000_
 #### [DRY Gone Bad: Bespoke Company Frameworks](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dry-gone-bad-bespoke-company-framework&#x2F;) - _Wed, 08 Mar 2023 14:54:04 +0000_
 #### [Why Self-Fulfilling Prophecies Come True](https:&#x2F;&#x2F;aaronstannard.com&#x2F;self-fulfilling-prophecies&#x2F;) - _Fri, 23 Dec 2022 14:54:04 +0000_
 #### [Beware the Long &#39;YAGNI&#39;](https:&#x2F;&#x2F;aaronstannard.com&#x2F;beware-long-yagni&#x2F;) - _Tue, 06 Dec 2022 02:22:44 +0000_
@@ -21,5 +22,4 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 #### [The Future of the .NET Foundation and .NET OSS](https:&#x2F;&#x2F;aaronstannard.com&#x2F;future-of-dotnet-foundation&#x2F;) - _Tue, 12 Oct 2021 12:31:21 +0000_
 #### [On Generational Thinking](https:&#x2F;&#x2F;aaronstannard.com&#x2F;intergenerational-thinking&#x2F;) - _Mon, 16 Aug 2021 18:31:21 +0000_
 #### [.NET Open Source: What Happens When the Free Lunch Ends?](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dotnetoss-free-lunch-ends&#x2F;) - _Thu, 03 Jun 2021 18:31:21 +0000_
-#### [Practical vs. Strict Semantic Versioning](https:&#x2F;&#x2F;aaronstannard.com&#x2F;oss-semver&#x2F;) - _Mon, 31 May 2021 12:31:21 +0000_
 <!--END_SECTION:feed-->
