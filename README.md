@@ -12,6 +12,7 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [How to Distribute Roslyn Analyzers via NuGet](https:&#x2F;&#x2F;aaronstannard.com&#x2F;roslyn-nuget&#x2F;) - _Thu, 11 Jan 2024 16:14:00 +0000_
 #### [Internal vs. External Accountabilities](https:&#x2F;&#x2F;aaronstannard.com&#x2F;internal-vs-external-accountabilities&#x2F;) - _Mon, 18 Sep 2023 16:14:00 +0000_
 #### [We&#39;re Rewriting Sdkbin](https:&#x2F;&#x2F;aaronstannard.com&#x2F;sdkbin-rewrite&#x2F;) - _Thu, 10 Aug 2023 16:14:00 +0000_
 #### [DRY Gone Bad: Bespoke Company Frameworks](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dry-gone-bad-bespoke-company-framework&#x2F;) - _Wed, 08 Mar 2023 14:54:04 +0000_
@@ -21,5 +22,4 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 #### [Professional Open Source: Extend-Only Design](https:&#x2F;&#x2F;aaronstannard.com&#x2F;extend-only-design&#x2F;) - _Mon, 27 Dec 2021 18:05:09 +0000_
 #### [An Overview of Distributed Tracing with OpenTelemetry in .NET 6](https:&#x2F;&#x2F;aaronstannard.com&#x2F;opentelemetry-dotnet6&#x2F;) - _Tue, 21 Dec 2021 12:31:21 +0000_
 #### [The Future of the .NET Foundation and .NET OSS](https:&#x2F;&#x2F;aaronstannard.com&#x2F;future-of-dotnet-foundation&#x2F;) - _Tue, 12 Oct 2021 12:31:21 +0000_
-#### [On Generational Thinking](https:&#x2F;&#x2F;aaronstannard.com&#x2F;intergenerational-thinking&#x2F;) - _Mon, 16 Aug 2021 18:31:21 +0000_
 <!--END_SECTION:feed-->
