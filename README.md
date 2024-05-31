@@ -12,6 +12,7 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [Noticing Skill Issues is Not Gatekeeping](https:&#x2F;&#x2F;aaronstannard.com&#x2F;developer-skill-issues&#x2F;) - _Thu, 30 May 2024 13:14:00 +0000_
 #### [.NET Developers Begging for Ecosystem Destruction](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dotnet-eventing-backslide&#x2F;) - _Mon, 18 Mar 2024 13:14:00 +0000_
 #### [How to Distribute Roslyn Analyzers via NuGet](https:&#x2F;&#x2F;aaronstannard.com&#x2F;roslyn-nuget&#x2F;) - _Thu, 11 Jan 2024 16:14:00 +0000_
 #### [Internal vs. External Accountabilities](https:&#x2F;&#x2F;aaronstannard.com&#x2F;internal-vs-external-accountabilities&#x2F;) - _Mon, 18 Sep 2023 16:14:00 +0000_
@@ -21,5 +22,4 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 #### [Beware the Long &#39;YAGNI&#39;](https:&#x2F;&#x2F;aaronstannard.com&#x2F;beware-long-yagni&#x2F;) - _Tue, 06 Dec 2022 02:22:44 +0000_
 #### [Reflections on a Decade of Self-Employment](https:&#x2F;&#x2F;aaronstannard.com&#x2F;decade-self-employment&#x2F;) - _Wed, 17 Aug 2022 12:11:21 +0000_
 #### [Professional Open Source: Extend-Only Design](https:&#x2F;&#x2F;aaronstannard.com&#x2F;extend-only-design&#x2F;) - _Mon, 27 Dec 2021 18:05:09 +0000_
-#### [An Overview of Distributed Tracing with OpenTelemetry in .NET 6](https:&#x2F;&#x2F;aaronstannard.com&#x2F;opentelemetry-dotnet6&#x2F;) - _Tue, 21 Dec 2021 12:31:21 +0000_
 <!--END_SECTION:feed-->
