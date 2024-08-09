@@ -12,6 +12,7 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [Hate Your Own Work and Ship It Anyway](https:&#x2F;&#x2F;aaronstannard.com&#x2F;hate-your-own-work&#x2F;) - _Thu, 08 Aug 2024 19:09:00 +0000_
 #### [Noticing Skill Issues is Not Gatekeeping](https:&#x2F;&#x2F;aaronstannard.com&#x2F;developer-skill-issues&#x2F;) - _Thu, 30 May 2024 13:14:00 +0000_
 #### [.NET Developers Begging for Ecosystem Destruction](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dotnet-eventing-backslide&#x2F;) - _Mon, 18 Mar 2024 13:14:00 +0000_
 #### [How to Distribute Roslyn Analyzers via NuGet](https:&#x2F;&#x2F;aaronstannard.com&#x2F;roslyn-nuget&#x2F;) - _Thu, 11 Jan 2024 16:14:00 +0000_
@@ -21,5 +22,4 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 #### [Why Self-Fulfilling Prophecies Come True](https:&#x2F;&#x2F;aaronstannard.com&#x2F;self-fulfilling-prophecies&#x2F;) - _Fri, 23 Dec 2022 14:54:04 +0000_
 #### [Beware the Long &#39;YAGNI&#39;](https:&#x2F;&#x2F;aaronstannard.com&#x2F;beware-long-yagni&#x2F;) - _Tue, 06 Dec 2022 02:22:44 +0000_
 #### [Reflections on a Decade of Self-Employment](https:&#x2F;&#x2F;aaronstannard.com&#x2F;decade-self-employment&#x2F;) - _Wed, 17 Aug 2022 12:11:21 +0000_
-#### [Professional Open Source: Extend-Only Design](https:&#x2F;&#x2F;aaronstannard.com&#x2F;extend-only-design&#x2F;) - _Mon, 27 Dec 2021 18:05:09 +0000_
 <!--END_SECTION:feed-->
