@@ -12,6 +12,7 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [Frameworkism: Senior Software Developers&#39; Pit of Doom](https:&#x2F;&#x2F;aaronstannard.com&#x2F;frameworkism&#x2F;) - _Wed, 04 Dec 2024 19:13:00 +0000_
 #### [Has Ruby-on-Rails-Style &#39;Gem Glue-Gunning&#39; Come to .NET?](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dotnet-glue-gunning&#x2F;) - _Fri, 25 Oct 2024 01:23:00 +0000_
 #### [Hate Your Own Work and Ship It Anyway](https:&#x2F;&#x2F;aaronstannard.com&#x2F;hate-your-own-work&#x2F;) - _Thu, 08 Aug 2024 19:09:00 +0000_
 #### [Noticing Skill Issues is Not Gatekeeping](https:&#x2F;&#x2F;aaronstannard.com&#x2F;developer-skill-issues&#x2F;) - _Thu, 30 May 2024 13:14:00 +0000_
@@ -21,5 +22,4 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 #### [We&#39;re Rewriting Sdkbin](https:&#x2F;&#x2F;aaronstannard.com&#x2F;sdkbin-rewrite&#x2F;) - _Thu, 10 Aug 2023 16:14:00 +0000_
 #### [DRY Gone Bad: Bespoke Company Frameworks](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dry-gone-bad-bespoke-company-framework&#x2F;) - _Wed, 08 Mar 2023 14:54:04 +0000_
 #### [Why Self-Fulfilling Prophecies Come True](https:&#x2F;&#x2F;aaronstannard.com&#x2F;self-fulfilling-prophecies&#x2F;) - _Fri, 23 Dec 2022 14:54:04 +0000_
-#### [Beware the Long &#39;YAGNI&#39;](https:&#x2F;&#x2F;aaronstannard.com&#x2F;beware-long-yagni&#x2F;) - _Tue, 06 Dec 2022 02:22:44 +0000_
 <!--END_SECTION:feed-->
