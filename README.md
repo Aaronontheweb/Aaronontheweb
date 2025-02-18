@@ -11,6 +11,8 @@ I'm currently the Founder and CEO of [Petabridge](https://petabridge.com/), a co
 * :tv: [Stannardian on Twitch](https://www.twitch.tv/stannardian)
 * :bookmark_tabs:	[aaronstannard.com](https://aaronstannard.com/)
 
+Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp" free self-paced learning course and launched it here: [https://petabridge.com/bootcamp/](https://petabridge.com/bootcamp/)
+
 ## Blog Posts
 <!--START_SECTION:feed-->
 #### [.NET OSS Projects: Better to Re-license or Die?](https:&#x2F;&#x2F;aaronstannard.com&#x2F;relicense-or-die&#x2F;) - _Sat, 18 Jan 2025 12:21:00 +0000_
