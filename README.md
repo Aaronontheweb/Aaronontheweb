@@ -15,6 +15,7 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [Software Falsehoods: you can build it cheap, fast, and good - pick two](https:&#x2F;&#x2F;aaronstannard.com&#x2F;software-price-speed-quality&#x2F;) - _Sat, 08 Mar 2025 15:44:00 +0000_
 #### [.NET OSS Projects: Better to Re-license or Die?](https:&#x2F;&#x2F;aaronstannard.com&#x2F;relicense-or-die&#x2F;) - _Sat, 18 Jan 2025 12:21:00 +0000_
 #### [Lessons Learned Over 10 Years of Bootstrapping Petabridge](https:&#x2F;&#x2F;aaronstannard.com&#x2F;10-years-of-petabridge&#x2F;) - _Wed, 08 Jan 2025 22:21:00 +0000_
 #### [Leaning into Weakness](https:&#x2F;&#x2F;aaronstannard.com&#x2F;leaning-into-weakness&#x2F;) - _Fri, 27 Dec 2024 15:13:00 +0000_
@@ -24,5 +25,4 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 #### [Noticing Skill Issues is Not Gatekeeping](https:&#x2F;&#x2F;aaronstannard.com&#x2F;developer-skill-issues&#x2F;) - _Thu, 30 May 2024 13:14:00 +0000_
 #### [.NET Developers Begging for Ecosystem Destruction](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dotnet-eventing-backslide&#x2F;) - _Mon, 18 Mar 2024 13:14:00 +0000_
 #### [How to Distribute Roslyn Analyzers via NuGet](https:&#x2F;&#x2F;aaronstannard.com&#x2F;roslyn-nuget&#x2F;) - _Thu, 11 Jan 2024 16:14:00 +0000_
-#### [Internal vs. External Accountabilities](https:&#x2F;&#x2F;aaronstannard.com&#x2F;internal-vs-external-accountabilities&#x2F;) - _Mon, 18 Sep 2023 16:14:00 +0000_
 <!--END_SECTION:feed-->
