@@ -15,6 +15,7 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [So Microsoft Deleted Some of Our Packages From NuGet.org Without Notice](https:&#x2F;&#x2F;aaronstannard.com&#x2F;microsoft-delete-nuget-packages&#x2F;) - _Fri, 11 Jul 2025 14:42:00 +0000_
 #### [Continuous Deployment of Docker Compose Applications Using GitHub Actions](https:&#x2F;&#x2F;aaronstannard.com&#x2F;docker-compose-tailscale&#x2F;) - _Wed, 23 Apr 2025 10:44:00 +0000_
 #### [Signing NuGet Packages Using Azure DevOps and Workload Identity Federation](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dotnet-sign-azure-devops&#x2F;) - _Mon, 14 Apr 2025 10:44:00 +0000_
 #### [The Future of AI Belongs to Experienced Operators with Good Taste](https:&#x2F;&#x2F;aaronstannard.com&#x2F;generative-ai-skilled-operators&#x2F;) - _Thu, 27 Mar 2025 10:44:00 +0000_
@@ -24,5 +25,4 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 #### [Leaning into Weakness](https:&#x2F;&#x2F;aaronstannard.com&#x2F;leaning-into-weakness&#x2F;) - _Fri, 27 Dec 2024 15:13:00 +0000_
 #### [Frameworkism: Senior Software Developers&#39; Pit of Doom](https:&#x2F;&#x2F;aaronstannard.com&#x2F;frameworkism&#x2F;) - _Wed, 04 Dec 2024 19:13:00 +0000_
 #### [Has Ruby-on-Rails-Style &#39;Gem Glue-Gunning&#39; Come to .NET?](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dotnet-glue-gunning&#x2F;) - _Fri, 25 Oct 2024 01:23:00 +0000_
-#### [Hate Your Own Work and Ship It Anyway](https:&#x2F;&#x2F;aaronstannard.com&#x2F;hate-your-own-work&#x2F;) - _Thu, 08 Aug 2024 19:09:00 +0000_
 <!--END_SECTION:feed-->
