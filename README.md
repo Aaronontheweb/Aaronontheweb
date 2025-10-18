@@ -15,6 +15,7 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [Stop Failing The &#x60;git clone &amp;&amp; run&#x60; Test](https:&#x2F;&#x2F;aaronstannard.com&#x2F;git-clone-and-run&#x2F;) - _Fri, 17 Oct 2025 15:00:00 +0000_
 #### [Your HTML Comments Are More Powerful Than You Think: Building Custom Validation Grammars with HtmlAgilityPack](https:&#x2F;&#x2F;aaronstannard.com&#x2F;link-validator-html-comments&#x2F;) - _Wed, 01 Oct 2025 15:00:00 +0000_
 #### [There Has Never Been a Better Time to be a Junior Developer - And It Won&#39;t Last Forever](https:&#x2F;&#x2F;aaronstannard.com&#x2F;jr-developer&#x2F;) - _Fri, 22 Aug 2025 19:44:00 +0000_
 #### [So Microsoft Deleted Some of Our Packages From NuGet.org Without Notice](https:&#x2F;&#x2F;aaronstannard.com&#x2F;microsoft-delete-nuget-packages&#x2F;) - _Fri, 11 Jul 2025 14:42:00 +0000_
@@ -24,5 +25,4 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 #### [Software Falsehoods: you can build it cheap, fast, and good - pick two](https:&#x2F;&#x2F;aaronstannard.com&#x2F;software-price-speed-quality&#x2F;) - _Sat, 08 Mar 2025 15:44:00 +0000_
 #### [.NET OSS Projects: Better to Re-license or Die?](https:&#x2F;&#x2F;aaronstannard.com&#x2F;relicense-or-die&#x2F;) - _Sat, 18 Jan 2025 12:21:00 +0000_
 #### [Lessons Learned Over 10 Years of Bootstrapping Petabridge](https:&#x2F;&#x2F;aaronstannard.com&#x2F;10-years-of-petabridge&#x2F;) - _Wed, 08 Jan 2025 22:21:00 +0000_
-#### [Leaning into Weakness](https:&#x2F;&#x2F;aaronstannard.com&#x2F;leaning-into-weakness&#x2F;) - _Fri, 27 Dec 2024 15:13:00 +0000_
 <!--END_SECTION:feed-->
