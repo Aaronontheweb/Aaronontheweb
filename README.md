@@ -15,6 +15,7 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [Software 2.0: Code is Cheap, Good Taste is Not](https:&#x2F;&#x2F;aaronstannard.com&#x2F;beginning-of-software-2.0&#x2F;) - _Mon, 26 Jan 2026 14:00:00 +0000_
 #### [Why Your Software Sucks: Inheritance](https:&#x2F;&#x2F;aaronstannard.com&#x2F;why-your-software-sucks-inheritance&#x2F;) - _Mon, 26 Jan 2026 14:00:00 +0000_
 #### [Why Am I Paying $40,000 for the Birth of My Child?](https:&#x2F;&#x2F;aaronstannard.com&#x2F;40k-baby&#x2F;) - _Sun, 30 Nov 2025 15:00:00 +0000_
 #### [Stop Failing The &#x60;git clone &amp;&amp; run&#x60; Test](https:&#x2F;&#x2F;aaronstannard.com&#x2F;git-clone-and-run&#x2F;) - _Fri, 17 Oct 2025 15:00:00 +0000_
@@ -24,5 +25,4 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 #### [Continuous Deployment of Docker Compose Applications Using GitHub Actions](https:&#x2F;&#x2F;aaronstannard.com&#x2F;docker-compose-tailscale&#x2F;) - _Wed, 23 Apr 2025 10:44:00 +0000_
 #### [Signing NuGet Packages Using Azure DevOps and Workload Identity Federation](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dotnet-sign-azure-devops&#x2F;) - _Mon, 14 Apr 2025 10:44:00 +0000_
 #### [The Future of AI Belongs to Experienced Operators with Good Taste](https:&#x2F;&#x2F;aaronstannard.com&#x2F;generative-ai-skilled-operators&#x2F;) - _Thu, 27 Mar 2025 10:44:00 +0000_
-#### [Software Falsehoods: you can build it cheap, fast, and good - pick two](https:&#x2F;&#x2F;aaronstannard.com&#x2F;software-price-speed-quality&#x2F;) - _Sat, 08 Mar 2025 15:44:00 +0000_
 <!--END_SECTION:feed-->
