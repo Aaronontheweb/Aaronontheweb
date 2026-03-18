@@ -15,6 +15,7 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [Software 2.0: Planning and Verifying a Greenfield Project](https:&#x2F;&#x2F;aaronstannard.com&#x2F;software-2.0-case-study-textforge&#x2F;) - _Fri, 13 Mar 2026 14:00:00 +0000_
 #### [Software 2.0: Code is Cheap, Good Taste is Not](https:&#x2F;&#x2F;aaronstannard.com&#x2F;beginning-of-software-2.0&#x2F;) - _Mon, 26 Jan 2026 14:00:00 +0000_
 #### [Why Your Software Sucks: Inheritance](https:&#x2F;&#x2F;aaronstannard.com&#x2F;why-your-software-sucks-inheritance&#x2F;) - _Mon, 26 Jan 2026 14:00:00 +0000_
 #### [Why Am I Paying $40,000 for the Birth of My Child?](https:&#x2F;&#x2F;aaronstannard.com&#x2F;40k-baby&#x2F;) - _Sun, 30 Nov 2025 15:00:00 +0000_
@@ -24,5 +25,4 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 #### [So Microsoft Deleted Some of Our Packages From NuGet.org Without Notice](https:&#x2F;&#x2F;aaronstannard.com&#x2F;microsoft-delete-nuget-packages&#x2F;) - _Fri, 11 Jul 2025 14:42:00 +0000_
 #### [Deploying Docker Compose Applications with Tailscale and GitHub Actions](https:&#x2F;&#x2F;aaronstannard.com&#x2F;docker-compose-tailscale&#x2F;) - _Wed, 23 Apr 2025 10:44:00 +0000_
 #### [Signing NuGet Packages Using Azure DevOps and Workload Identity Federation](https:&#x2F;&#x2F;aaronstannard.com&#x2F;dotnet-sign-azure-devops&#x2F;) - _Mon, 14 Apr 2025 10:44:00 +0000_
-#### [The Future of AI Belongs to Experienced Operators with Good Taste](https:&#x2F;&#x2F;aaronstannard.com&#x2F;generative-ai-skilled-operators&#x2F;) - _Thu, 27 Mar 2025 10:44:00 +0000_
 <!--END_SECTION:feed-->
