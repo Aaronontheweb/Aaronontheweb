@@ -15,6 +15,7 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 
 ## Blog Posts
 <!--START_SECTION:feed-->
+#### [Software 2.0: a Security-Critical Project Where I Don&#39;t Read the Code](https:&#x2F;&#x2F;aaronstannard.com&#x2F;a-security-critical-project-where-i-dont-read-the-code&#x2F;) - _Mon, 10 Aug 2026 14:00:00 +0000_
 #### [Escaping the LLM Coding Rat Race](https:&#x2F;&#x2F;aaronstannard.com&#x2F;escaping-ai-coding-ratrace&#x2F;) - _Mon, 27 Jul 2026 22:03:11 +0000_
 #### [Software 2.0: Planning and Verifying a Greenfield Project](https:&#x2F;&#x2F;aaronstannard.com&#x2F;software-2.0-case-study-textforge&#x2F;) - _Fri, 13 Mar 2026 14:00:00 +0000_
 #### [Software 2.0: Code is Cheap, Good Taste is Not](https:&#x2F;&#x2F;aaronstannard.com&#x2F;beginning-of-software-2.0&#x2F;) - _Mon, 26 Jan 2026 14:00:00 +0000_
@@ -24,5 +25,4 @@ Another thing I'm proud of that I've done lately - redid our "Akka.NET Bootcamp"
 #### [Your HTML Comments Are More Powerful Than You Think: Building Custom Validation Grammars with HtmlAgilityPack](https:&#x2F;&#x2F;aaronstannard.com&#x2F;link-validator-html-comments&#x2F;) - _Wed, 01 Oct 2025 15:00:00 +0000_
 #### [There Has Never Been a Better Time to be a Junior Developer - And It Won&#39;t Last Forever](https:&#x2F;&#x2F;aaronstannard.com&#x2F;jr-developer&#x2F;) - _Fri, 22 Aug 2025 19:44:00 +0000_
 #### [So Microsoft Deleted Some of Our Packages From NuGet.org Without Notice](https:&#x2F;&#x2F;aaronstannard.com&#x2F;microsoft-delete-nuget-packages&#x2F;) - _Fri, 11 Jul 2025 14:42:00 +0000_
-#### [Deploying Docker Compose Applications with Tailscale and GitHub Actions](https:&#x2F;&#x2F;aaronstannard.com&#x2F;docker-compose-tailscale&#x2F;) - _Wed, 23 Apr 2025 10:44:00 +0000_
 <!--END_SECTION:feed-->
